@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais Python
+venv/
+.venv/
+
+# Arquivos temporários do Excel
+~$*.xlsx
+~$*.csv
